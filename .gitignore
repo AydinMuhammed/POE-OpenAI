@@ -194,3 +194,6 @@ data/
 .env.local
 .env.production
 secrets.toml
+
+# Streamlit secrets
+.streamlit/secrets.toml
