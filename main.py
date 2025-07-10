@@ -26,6 +26,7 @@ pg = st.navigation({
         st.Page(exercisesPath + "image_description.py", title="Generate Image Description", icon=":material/text_fields:"),
         st.Page(exercisesPath + "transcription_audio.py", title="Generate Audio transcription", icon=":material/audiotrack:"),
         st.Page(exercisesPath + "fine_tuning.py", title="Fine Tuning", icon=":material/tune:"),
+        st.Page(exercisesPath + "final_project.py", title="Final Project", icon=":material/assignment:"),
         # st.Page(exercisesPath + "about.py", title="About", icon=":material/info:"),
         # st.Page(exercisesPath + "contact.py", title="Contact", icon=":material/contact_mail:"),
         
